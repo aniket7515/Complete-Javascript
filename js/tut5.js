@@ -17,3 +17,4 @@ console.log(i.toString());
 
 let stri="23424";
 console.log(stri , (typeof stri));
+
