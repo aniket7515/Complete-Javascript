@@ -7,3 +7,8 @@ document.getElementById('heading').addEventListener('click', function(e){
     console.log(variable);
     // location.href='www.google.com';
 })
+
+
+
+// client x and client y shows the distance where we click our mouse   
+// ppointer from the selected target  
